@@ -5,12 +5,12 @@ export const GithubSecao = styled.div`
 
     img {
         height: 210px;
-    }
 
-    @media (max-width: 768px) {
-
-        img {
-             width: 100%;
+        @media (max-width: 768px) {
+            width: 100%;
             height: auto;
         }
+    }
+
+    
 `
